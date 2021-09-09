@@ -1,6 +1,6 @@
-# Welcome to Solteria   
+# The Physical Geography of Solteria
 
-This campaign will be a high/epic fantasy campaign located within the world of **Solteria (soul-tear-ee-a)**. Solteria has two explored continents, **Nuryu (new-rye-u)** and **Syrelion (sigh-reel-e-on)**, and one unexplored continent, **Xugrera (zoo-gre-raw)**. It is a highly world diverse world full of different races, creatures, religions, guilds, and more. 
+Solteria has a variety of land and ocean features. From the highest mountains in the world (Heaven's Spires), to the deepest ocean in the world (The Shrouded Deep), to the dense jungles of Aholux, Solteria is full beautiful scenery and diverse landscape. 
 
 ## Continents and Countries
 
@@ -31,6 +31,12 @@ Syrelion is the southern continent of Solteria. It consists of the following fiv
 
 Xugrera is the northern most continent in Solteria. It has yet to be explored. Many expeditions have attempted to scale its seemingly infinite high cliffs to survey the continent. However, none have yet to successful climb the treacherous cliffs. Despite this inability to survey the interior of Xugrera, the coasts of Xugrera has been mapped in detail.  
 
+## Land Features
+
+### The Heaven's Spires
+
+The Heaven's Spires are the smallest yet tallest mountain range in the world. It runs along the eastern borders of Myrland and Rylia. Though many expeditions have tried to survey the mountain range, there has only been one successful survey in which they were able to find an extremely dangerous and narrow pass (known as Rocback Pass) through the Heaven's Spires from Myrland to the Istrarian Dynasty. 
+
 ## Water Features
 
 ### The Shrouded Deep
@@ -43,6 +49,18 @@ Due to the Shroud obscuring the skies off the western coasts of Nuryu, Syrelion,
 
 The Endless Ocean is the largest ocean in the world. Many expeditions had gone out to explore and survey the Endless Ocean but none have yet circumnavigate Solteria. The majority of expeditions that attempted to circumnavigate either disappeared or were force to turn back to port due to the dwindling supplies.
 
-There is a commonly known Point of No Return among the sailors known as Leviathan's End, an island that is in the shape of a Leviathan.  
+There is a commonly known Point of No Return among the sailors known as Leviathan's End, an island that is in the shape of a Leviathan.
+
+### Traverse Sea
+
+The Traverse Sea is the most explored and the busiest water feature in the world. The Traverse Seas extends from the Shrouded Deep to the west to the Endless Ocean in the east and is bounded by the continent of Nuryu in the north and the continent of Syrelion in the south. Countless shipping lanes run through the Traverse Sea delivering goods to the all countries except for Rylia and Myrland whose coasts are on the Shrouded Deep.
+
+### Snow Gale Sea
+
+The Snow Gale Sea is the most dangerous water feature in the world (not counting the Shrouded Deep of course). It is plagued by severe winter storms, rough seas, and dangerous freezing temperatures.
+
+### The Winter Shoals
+
+The Winter Shoals is the shallowest ocean in the world. Not many traders and merchants travel the Winter Shoals out of fear of running aground. Those who do traverse the Winter Shoals must sail their ships with exact precision or run aground.  
 
 
