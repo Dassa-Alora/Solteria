@@ -89,5 +89,3 @@ Segalla is monarchy with the current ruler of Segalla being a gnome known as Duk
 **The Shezian (Shay-san) Domain** is the largest country on the Syrelion continent. Its environment is much like the central United States with grasslands and some deserts located in the western part of the country and forests located in the eastern part of the country. 
 
 The Shezian Domain is ruled by a council of seven guild heads with the ruling council member currently part of the Steelshade Blacksmith's Guild, dwarf Thorruk Goldmaul. Elections for the head of the council occurs every ten years.
-
-## Religions 
