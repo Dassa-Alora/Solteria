@@ -4,6 +4,10 @@ Solteria has three continents (two explored and one unexplored) and five major b
 
 ## Continents and Countries
 
+### Xugrera
+
+**Xugrera (Zoo-gree-ra)** is the northernmost and only continent that has yet to be explored. With the almost consistent intense weather of the Snow Gale Sea as well as its seemingly infinite cliffs, no exploration has been able to survey this mysterious continent. 
+
 ### Nuryu
 
 **Nuryu (New-rye-u)** is the largest and the northern continent of Solteria. There are a total of eight countries on Nuryu.
@@ -89,3 +93,31 @@ Segalla is monarchy with the current ruler of Segalla being a gnome known as Duk
 **The Shezian (Shay-san) Domain** is the largest country on the Syrelion continent. Its environment is much like the central United States with grasslands and some deserts located in the western part of the country and forests located in the eastern part of the country. 
 
 The Shezian Domain is ruled by a council of seven guild heads with the ruling council member currently part of the Steelshade Blacksmith's Guild, dwarf Thorruk Goldmaul. Elections for the head of the council occurs every ten years.
+
+## Oceans and Seas
+
+### The Endless Ocean
+
+**The Endless Ocean** is the largest ocean in Solteria due to the fact that no one has found its end. Many expeditions have gone to explore the Endless Ocean in an attempt to circumnavigate Solteria, but every expedition either disappeared or had to turn back due to the ships running low on supplies.
+
+There is a commonly known Point of No Return among the sailors of Solteria known as **Leviathan's End**. Leviathan's End is a rocky island that appears to be in the shape of a Leviathan. All ships that had sailed passed Leviathan's End have never returned.
+
+### The Shrouded Deep
+
+**The Shrouded Deep** is considered the deepest ocean in the world. On average, the Shrouded Deep goes from sea level to a depth in which a sailor's lead line is unable to measure its deep about one mile off the coasts. Sitting ominously twenty miles off the coasts is a blanket of dense fog, known as the Shroud. The Shroud obscures the rest of the ocean west of that point. All ships that enter the fog either disappears or appears at a point where the ship was nowhere near before (ex: The Endless Ocean) with most of the crew either dead or gone mad.
+
+Due to the Shroud obscuring the Shrouded Deep, the weather on the western coasts of Nuryu and Syrelion is highly unpredictable and, until recently, uninhabited. 
+
+### Snow Gale Sea
+
+The **Snow Gale Sea** is the northern most ocean in the world. The sea is covered in ice most of the year and the weather is highly unpredictable, though not as unpredictable as the weather in the Shrouded Deep.
+
+Despite the unpredictability of the weather, fishing guilds and refugees fleeing from the famine in the Hiano and the Istrarian Dynasty risks sailing these waters.
+
+### Transverse Sea
+
+The **Transverse Sea** is the busiest ocean in the world. Nearly all major shipping lanes go through the Traverse Sea and it is the primary passageway for ships sailing from Nuryu to Syrelion.
+
+### The Winter Shoals
+
+The **Winter Shoals** is the shallowest ocean in the world. With the unpredictability of the weather as well as seemingly random ocean depths, it takes great skill and precising sailing these waters. Those who are not experience in sailing the Winter Shoals tend to run aground.
