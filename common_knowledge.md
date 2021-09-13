@@ -1,6 +1,6 @@
 # Common knowledge of Solteria
 
-Solteria has three continents (two explored and one unexplored) and five major bodies of water. The three continents are the northern continent known as **Nuryu (New-rye-u)**, the southern continent known as **Syrelion (Sy-reel-e-on)**, and the northernmost and unexplored continent known as **Xugrera (Su-gree-ra)**. The five major bodies of water are **The Shrouded Deep**, **the Endless Ocean**, **the Winter Shoals**, **the Snow Gale Sea**, and **the Traverse Sea**.
+Solteria has three continents (two explored and one unexplored) and five major bodies of water. The three continents are the northern continent known as **Nuryu (New-rye-u)**, the southern continent known as **Syrelion (Sy-reel-e-on)**, and the northernmost and unexplored continent known as **Xugrera (Zoo-gree-ra)**. The five major bodies of water are **The Shrouded Deep**, **the Endless Ocean**, **the Winter Shoals**, **the Snow Gale Sea**, and **the Traverse Sea**.
 
 ## Continents and Countries
 
