@@ -35,7 +35,6 @@ As a DM I will,
 
 ## D&D House Rules
 
-* Components will only be used for Ritual Casting. (Ex: You don't need an petrified eye of a newt to cast Hex)
 * Ties for AC vs hit and spell vs spell save will always go to the attacker.
 * Drinking a potion for yourself or tossing a potion (checks will be rolled) to another player is a bonus action. Administering a potion to another player costs an action.
 * When using your inspiration, you can re-roll any roll (attack, damage, etc.) except death saving throws.
