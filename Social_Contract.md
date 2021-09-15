@@ -39,4 +39,4 @@ As a DM I will,
 * Drinking a potion for yourself or tossing a potion (checks will be rolled) to another player is a bonus action. Administering a potion to another player costs an action.
 * When using your inspiration, you can re-roll any roll (attack, damage, etc.) except death saving throws.
 * Both half damage and half movement will be rounded up.
-* Critical hits deal max damage plus damage roll plus modifiers. 
+* Critical hits deal max damage plus damage roll plus modifiers.
