@@ -40,6 +40,8 @@ Below are the common races in Solteria. Each country have different common races
 * Goliaths
 * Half-Orcs
 * Haflings
+* Harengon
+* Fairy
 
 
 ## Races of Ocumiel
@@ -56,6 +58,8 @@ Below are the common races in Solteria. Each country have different common races
 * Centaurs
 * Aarakoca
 * Half-Orcs
+* Harengon
+* Fairy
 
 ## Races of the Volquiria Kingdom
 
@@ -86,6 +90,7 @@ Below are the common races in Solteria. Each country have different common races
 * Kalashtar
 * Verdan
 * Dragonborn
+* Fairy
 
 
 ## Races of Laisora Republic
@@ -93,6 +98,7 @@ Below are the common races in Solteria. Each country have different common races
 * Aarakoca
 * Gnomes
 * Loxodon
+* Harengon
 
 
 ## Races of Segalla
@@ -112,4 +118,5 @@ Below are the common races in Solteria. Each country have different common races
 * Gnomes
 * Tabaxi
 * Half-Orcs
+* Harengon
 
