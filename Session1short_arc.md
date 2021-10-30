@@ -16,7 +16,7 @@ Eeddi cast Detected Magic and saw that the two G's (Windgaze and Freeglide) were
 
 ~ ~ G ~ G
 
-Eeddi recalled that about 3 years ago Woodsford was struggling with putting down a minor cult. She recalled that two teenagers who were associated with found and they had died under mysterious circumstances.  
+Eeddi recalled that about 3 years ago Woodsford was struggling with putting down a minor cult. She recalled that two teenagers who were associated with the cult were found dead. Their deaths have been ruled as "dying under mysterious circumstances."  
 
 ## Storage Shed Area ##
 
@@ -30,9 +30,9 @@ Mellerel decided that she had enough of this dark and moonless winter night and 
 
 The party arrives at the Memorial Garden that was located on the east side of the church. It was clear that the garden had not been maintain. The fountain in the center of the memorial garden had what looked like red-green algae coated on the stone where water once was. The memorial wall itself was covered with dead vines and plants that had encroached upon the memorial. You all walked up to the memorial wall to see hundreds upon hundreds of names etched onto the wall. This was a memorial for some sort of catastrophe. After some checks, Eeddi remembers that this memorial was dedicated to those who fought and died in the Undying War.
 
-The Undying War was a six-month war fought between Rylia and the Istrarian Dynasty approximately 300 years ago. You all know that the Istrarian Dynasty attempted to conquer Rylia. After numerous failed attempts to conquer Rylia due to its geographic barriers, the Istrarian Dynasty decided that this so called Undying War was pointless and the country was not worth the large amount of resources that would be needed to conquer it. 
+The Undying War was a six-month war fought between Rylia and the Istrarian Dynasty approximately 300 years ago. You all know that the Istrarian Dynasty attempted to conquer Rylia. After numerous failed attempts to conquer Rylia due to its geographic barriers, the Istrarian Dynasty decided that this so called Undying War as it was called by the Rylians was pointless and the country was not worth the large amount of resources that would be needed to conquer it. 
 
-While the party looks through the hundreds of names upon the memorial, you find the third level of the five letter word located on a name that had been scratched out. The letter was K and it was written Abyssal. After the party turned the letter K on, they went back to the church to see the following
+While the party looks through the hundreds of names upon the memorial, you find the third letter of a five letter word located on a name that had been scratched out. The letter was K and it was written Abyssal. After the party turned the letter K on, they went back to the church to see the following
 
 K ~ G ~ G
 
