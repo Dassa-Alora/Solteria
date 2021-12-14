@@ -6,10 +6,11 @@ There are numerous gods and goddesses throughout all of Solteria. Below are the 
 
 There are numerous temples, churches, and cathedrals scattered throughout Solteria with some being dedicated to only one god or goddess while other temples are dedicated to multiple gods and goddesses or even all the deities of Solteria. Each god and goddess has their own individual holy book within the Solteria Scriptures (much like the Bible). Below is a table of each of the major gods and goddesses of Solteria.
 
-Thirteen Good Aligned Deities |	Alignment
+Fourteen Good Aligned Deities |	Alignment
 ------	|------
 *Codia*, goddess of justice |	LG
 *Drevuna*, goddess of courage |	LG
+*Enubus*, goddess of peace | LG
 *Erus*, god of endurance |	LG
 *Dersoi*, god of magic |	NG
 *Dyius*, god of birth and renewal |	NG
