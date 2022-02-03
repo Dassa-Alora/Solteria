@@ -58,4 +58,4 @@ Jean was in shock at what happened and cast Silent Image to give the impression 
 
 Lord Mayor Katrin then asked more about the party stating that she already knows Elraina and somewhat Eeddi (she's on her invite to dinner list) but she isn't familiar with Rowena, Garak, Jean, and Mellerel. Lord Mayor Katrin then asked who they are. 
 
-#End of Session
+# End of Session
