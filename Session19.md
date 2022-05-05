@@ -12,7 +12,9 @@ Bob ended up not making a replica of the plate seeing how serious Jean and Melle
 
 Bob's house is as far away from a bachelor pad as possible. In fact, the inside of his house was akin to that of an older retired person. He brought the party into the living room area where an entire wall was a bookshelf and there was a large and beautiful painting of a mountain meadow located near the Heaven's Spires. Bob went to make some tea for the party and the group began to make themselves at home.
 
-While Bob was making tea, Garak and Eeddi browsed the book shelf. Garak read up on fungi to learn more about the fungi that is disrupting the loggers work in a book called Magical Fungi and how to be a Fun Guy. Eeddi looked in a very cool spell book called something. Both Eeddi and Garak managed to copy down a simple spell to make into a spell scroll later. Mellerel took in the beautiful painting of the mountain meadow while Jean just relaxed. 
+While Bob was making tea, Garak and Eeddi browsed the book shelf. Garak read up on fungi to learn more about the fungi that is disrupting the loggers work in a book called Magical Fungi and how to be a Fun Guy. There wasn't any information on those weird mushrooms. Garak decided to look in another book called The Art of Chi Bending and wrote down the spell for Burning hands. Eeddi looked in a very cool spell book called The Definitive Handbook of Counter curses and wrote down the spell for Protection from Good and Evil. 
+
+Both Eeddi and Garak are able to craft a spell scroll for Protection from Good and Evil as well as Burning Hands. Mellerel took in the beautiful painting of the mountain meadow while Jean just relaxed. 
 
 Bob came back from making tea and offered some to the party. Mellerel inquiry about the painting and Bob told her that last summer he closed up shop for a week and went on a backpacking trip to Rosgana Foothills and the smaller peaks of the Heaven's Spires. He painted that on that backpacking trip. 
 
