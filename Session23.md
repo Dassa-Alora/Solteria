@@ -55,6 +55,8 @@ Mellerel and Garak decided to each take one side of the Tinker's Contest. Meller
 
 Mellerel was pretty impressed by the various inventions that the adults have made. Especially, Brightpicker's toy train set that all the kids were playing at. She looked up at Brightpicker and noticed that he no longer looked exhausted and sleep deprived. Instead, Brightpicker looked refreshed and seemed to be enjoying himself. 
 
+She also was super impressed by a dwarf logger name Brent who had displayed a terrarium at the Tinker's Contest. He told Mellerel that he started it when he was a kid and kept working on it since then. Mellerel said that it was very beautiful. Brent thanked her and then Mellerel continued to investigate the Adult Tinker's Contest.
+
 Garak check out the Children's Tinker's Contest and eventually stumbled upon Xi-Tao how was near the end of the aisle where the older kids had their invention set up. Xi-Tao's invention looked a lot like a distillery. 
 
 Garak asked him what his invention does and Xi-Tao answered that "Makes water." Garak asked for a demonstration and Xi-Tao took a cup and put it under the spout at the front of the distillery and then took a bucket of extremely dirty water and pour it into the distillery. Xi-Tao warned Garak that it's going to be loud and turned the distillery on. 
